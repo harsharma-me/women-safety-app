@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Women Safety</string>
+    
+    <!-- Main Activity -->
+    <string name="sos_button">SOS</string>
+    <string name="emergency_alert">Emergency Alert</string>
+    <string name="hold_to_activate">Hold for 3 seconds to activate SOS</string>
+    <string name="sos_activated">SOS Activated!</string>
+    <string name="emergency_contacts">Emergency Contacts</string>
+    <string name="fake_call">Fake Call</string>
+    <string name="settings">Settings</string>
+    <string name="quick_dial">Quick Dial</string>
+    
+    <!-- Emergency Actions -->
+    <string name="calling_emergency_contact">Calling emergency contact…</string>
+    <string name="sending_sms">Sending emergency SMS…</string>
+    <string name="getting_location">Getting your location…</string>
+    <string name="starting_recording">Starting audio recording…</string>
+    <string name="alarm_playing">Alarm activated</string>
+    
+    <!-- Contacts Activity -->
+    <string name="add_contact">Add Contact</string>
+    <string name="edit_contact">Edit Contact</string>
+    <string name="delete_contact">Delete Contact</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="contact_phone">Phone Number</string>
+    <string name="contact_relationship">Relationship</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="no_contacts">No emergency contacts added</string>
+    <string name="add_contacts_message">Add at least one emergency contact to use SOS features</string>
+    <string name="pick_contact">Pick from Contacts</string>
+    <string name="primary_contact">Primary Contact</string>
+    <string name="contact_added">Contact added successfully</string>
+    <string name="contact_updated">Contact updated successfully</string>
+    <string name="contact_deleted">Contact deleted</string>
+    <string name="contact_limit">Maximum 5 emergency contacts allowed</string>
+    
+    <!-- Settings Activity -->
+    <string name="shake_detection">Shake Detection</string>
+    <string name="shake_enabled">Enable shake to alert</string>
+    <string name="shake_sensitivity">Shake Sensitivity</string>
+    <string name="sensitivity_low">Low</string>
+    <string name="sensitivity_medium">Medium</string>
+    <string name="sensitivity_high">High</string>
+    <string name="audio_recording">Audio Recording</string>
+    <string name="auto_record">Auto-record on SOS</string>
+    <string name="alarm_settings">Alarm Settings</string>
+    <string name="alarm_volume">Alarm Volume</string>
+    <string name="about">About</string>
+    <string name="app_version">Version 1.0</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="permissions">Permissions</string>
+    <string name="manage_permissions">Manage App Permissions</string>
+    
+    <!-- Fake Call Activity -->
+    <string name="incoming_call">Incoming call</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
+    <string name="mobile">Mobile</string>
+    <string name="fake_caller_name">Mom</string>
+    <string name="fake_caller_number">+1 234 567 8900</string>
+    
+    <!-- Quick Dial -->
+    <string name="police">Police</string>
+    <string name="ambulance">Ambulance</string>
+    <string name="fire">Fire</string>
+    <string name="women_helpline">Women Helpline</string>
+    <string name="police_number">911</string>
+    <string name="ambulance_number">911</string>
+    <string name="fire_number">911</string>
+    <string name="women_helpline_number">1091</string>
+    
+    <!-- Permissions -->
+    <string name="permission_required">Permission Required</string>
+    <string name="location_permission_required">Location permission is required to share your location in emergencies</string>
+    <string name="call_permission_required">Phone permission is required to make emergency calls</string>
+    <string name="sms_permission_required">SMS permission is required to send emergency messages</string>
+    <string name="contacts_permission_required">Contacts permission is required to pick emergency contacts</string>
+    <string name="audio_permission_required">Microphone permission is required for audio recording</string>
+    <string name="camera_permission_required">Camera permission is required for video recording</string>
+    <string name="storage_permission_required">Storage permission is required to save recordings</string>
+    <string name="notification_permission_required">Notification permission is required for emergency alerts</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="permission_denied">Permission denied</string>
+    
+    <!-- SMS Message Template -->
+    <string name="emergency_sms_template">EMERGENCY ALERT! %1$s needs help!\nLocation: https://maps.google.com/?q=%2$f,%3$f\nTime: %4$s\nSent from Women Safety App</string>
+    
+    <!-- Notifications -->
+    <string name="emergency_service_notification">Emergency service is active</string>
+    <string name="shake_service_notification">Shake detection is active</string>
+    <string name="notification_channel_emergency">Emergency Alerts</string>
+    <string name="notification_channel_service">Background Services</string>
+    <string name="stop_alarm">Stop Alarm</string>
+    <string name="stop_recording">Stop Recording</string>
+    
+    <!-- Errors -->
+    <string name="error_no_contacts">Please add emergency contacts first</string>
+    <string name="error_location">Unable to get location</string>
+    <string name="error_call_failed">Failed to make emergency call</string>
+    <string name="error_sms_failed">Failed to send emergency SMS</string>
+    <string name="error_recording_failed">Failed to start recording</string>
+    <string name="error_invalid_phone">Invalid phone number</string>
+    <string name="error_empty_name">Please enter contact name</string>
+    
+    <!-- Confirmations -->
+    <string name="confirm_sos">Confirm SOS</string>
+    <string name="confirm_sos_message">Are you sure you want to activate emergency SOS? This will alert all your emergency contacts.</string>
+    <string name="confirm_delete">Confirm Delete</string>
+    <string name="confirm_delete_message">Are you sure you want to delete this contact?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    
+    <!-- Status Messages -->
+    <string name="location_shared">Location shared with emergency contacts</string>
+    <string name="sms_sent">Emergency SMS sent successfully</string>
+    <string name="recording_started">Audio recording started</string>
+    <string name="recording_stopped">Recording stopped</string>
+    <string name="alarm_stopped">Alarm stopped</string>
+    
+    <!-- General -->
+    <string name="ok">OK</string>
+    <string name="close">Close</string>
+    <string name="done">Done</string>
+    <string name="loading">Loading…</string>
+</resources>
