@@ -2,6 +2,17 @@
 
 An Android emergency application built with Kotlin to help ensure women's safety in distress situations.
 
+---
+
+## 📚 Quick Navigation
+
+**🚀 NEW USER?** Start here → [QUICK_START.md](QUICK_START.md) (30-minute guide)  
+**📊 WANT STATUS?** Check here → [PROJECT_STATUS.md](PROJECT_STATUS.md) (Visual dashboard)  
+**🗺️ NEED ROADMAP?** Read this → [WHAT_TO_DO_NEXT.md](WHAT_TO_DO_NEXT.md) (Complete guide)  
+**📖 ALL DOCS?** Browse → [DOCUMENTATION_INDEX.md](DOCUMENTATION_INDEX.md) (Navigation hub)
+
+---
+
 ## Features
 
 ### Core Features
