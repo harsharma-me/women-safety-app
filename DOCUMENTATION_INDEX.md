@@ -33,7 +33,7 @@ Welcome to the Women Safety App documentation! This guide will help you find the
 - Testing scenarios
 - Debugging tips
 
-### 🤔 "I want to understand the app"
+### 📝 "I want a complete feature inventory"
 **→ Read: [README.md](README.md)**
 - What the app does
 - Feature list
@@ -47,7 +47,12 @@ Welcome to the Women Safety App documentation! This guide will help you find the
 - Data flow diagrams
 - Design decisions
 
-### 📝 "I want a complete feature inventory"
+### 📦 "I want to download/share the project as zip"
+**→ Read: [ZIP_GUIDE.md](ZIP_GUIDE.md)**
+- Create distributable zip archive
+- Scripts for Linux/Mac/Windows
+- What's included/excluded
+- Sharing best practices
 **→ Read: [IMPLEMENTATION_SUMMARY.md](IMPLEMENTATION_SUMMARY.md)**
 - Every feature detailed
 - Code statistics
@@ -88,6 +93,7 @@ Welcome to the Women Safety App documentation! This guide will help you find the
 
 | File | Lines | Purpose | Read Time |
 |------|-------|---------|-----------|
+| **[ZIP_GUIDE.md](ZIP_GUIDE.md)** | 280+ | Zip creation & distribution | 10 min |
 | **[QUICK_START.md](QUICK_START.md)** | 250+ | 30-minute quick start guide | 5 min |
 | **[PROJECT_STATUS.md](PROJECT_STATUS.md)** | 400+ | Visual status dashboard | 3 min |
 | **[WHAT_TO_DO_NEXT.md](WHAT_TO_DO_NEXT.md)** | 720+ | Complete roadmap & next steps | 15 min |

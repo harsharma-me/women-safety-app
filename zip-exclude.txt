@@ -1,0 +1,17 @@
+.git
+.gradle
+build
+*.apk
+*.aab
+*.dex
+*.class
+.idea
+*.iml
+local.properties
+captures
+*.log
+.DS_Store
+dist
+*.hprof
+.cxx
+.externalNativeBuild

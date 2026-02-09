@@ -82,3 +82,6 @@ lint-baseline.xml
 
 # Mac OS
 .DS_Store
+
+# Zip distribution
+dist/

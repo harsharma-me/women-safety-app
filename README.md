@@ -4,12 +4,36 @@ An Android emergency application built with Kotlin to help ensure women's safety
 
 ---
 
+## 📦 Download as Zip
+
+**Want to download the complete project?**
+
+**Option 1: Use the creation script**
+```bash
+# Linux/Mac
+bash create-zip.sh
+
+# Windows
+create-zip.bat
+```
+
+**Option 2: GitHub Download**
+- Click "Code" button → "Download ZIP" on GitHub
+
+**Option 3: GitHub Releases**
+- Check the [Releases](../../releases) page for versioned downloads
+
+See [ZIP_GUIDE.md](ZIP_GUIDE.md) for detailed instructions.
+
+---
+
 ## 📚 Quick Navigation
 
 **🚀 NEW USER?** Start here → [QUICK_START.md](QUICK_START.md) (30-minute guide)  
 **📊 WANT STATUS?** Check here → [PROJECT_STATUS.md](PROJECT_STATUS.md) (Visual dashboard)  
 **🗺️ NEED ROADMAP?** Read this → [WHAT_TO_DO_NEXT.md](WHAT_TO_DO_NEXT.md) (Complete guide)  
-**📖 ALL DOCS?** Browse → [DOCUMENTATION_INDEX.md](DOCUMENTATION_INDEX.md) (Navigation hub)
+**📖 ALL DOCS?** Browse → [DOCUMENTATION_INDEX.md](DOCUMENTATION_INDEX.md) (Navigation hub)  
+**📦 CREATE ZIP?** Follow → [ZIP_GUIDE.md](ZIP_GUIDE.md) (Zip creation guide)
 
 ---
 
